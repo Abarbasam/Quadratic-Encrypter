@@ -80,8 +80,8 @@ The result is 72, which is a capital H in ASCII decimal. The program converts th
 <br />
 
 # How the encrypter works
-When you run the encrypter, it creates a randomly generated *a*, *b*, and *c* value. You can how random these values are if you like. They are set quite low so the encrypted message isn't huge.
+When you run the encrypter, it creates a randomly generated *a*, *b*, and *c* value. You can change how large these random values are if you like. They are set quite low so the encrypted message isn't huge.
 
-The encrypter looks at each character in the string you provide it, finds it's ASCII decimal value, and then plugs it into the equation *ax<sup>2</sup> + bx + c*. The program then spits out a new number. These new numbers are strung together to create a long, and very large number.
+The encrypter looks at each character in the string you provide it, finds its ASCII decimal value, and then plugs it into the equation *ax<sup>2</sup> + bx + c*. The program then spits out a new number. These new numbers are strung together to create a long, and very large number.
 
 You can type the same message into the encrypter each time you run it, and it should spit out a completely random and unique string of digits. This is because the *a*, *b*, and *c* value are selected randomly each time you run the encrypter.
