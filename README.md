@@ -1,5 +1,5 @@
 # Quadratic-Encrypter
-This is a simple encrypter/decrypter that takes a character's ASCII value, and applies it (as x) to a quadratic equation. All of the new number values are then strung together to create a very large looking number. See below for an in-depth explanation
+This is a simple encrypter/decrypter that takes a character's ASCII value, and applies it (as x) to a quadratic equation. All of the new number values are then strung together to create a very large number. See below for an in-depth explanation
 
 # How the decryption script works
 Here is an example of the encrypted version of, "Hello, World!"
