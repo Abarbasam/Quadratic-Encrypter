@@ -72,7 +72,7 @@ To figure out the original number, we set the equation equal to zero.
 
 Then, we apply the quadratic equation and take the result that is achieved when you __add__ the square root of *b<sup>2</sup> - 4ac* to *-b*
 
-The result is 72, which is a capital H in ASCII decimal. The program converts the 72 to "H", and moves on to find the next character. The entire string of digits spells out, "Hello, World!"
+The result is 72, which is a capital H in ASCII decimal. The program converts the 72 to "H", and moves on to find the next character.
 
 <br />
 <br />
